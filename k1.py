@@ -43,5 +43,5 @@ for i in range(0,len(K1)):
             K1_plaintext += vigenere[0][l:l+1]
             break
 
-
 print(K1_plaintext)
+
