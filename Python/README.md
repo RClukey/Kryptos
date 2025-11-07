@@ -1,6 +1,6 @@
 # Kryptos
 
-[KRYPTOS](https://en.wikipedia.org/wiki/Kryptos) is a currently unsolved cipher located in the CIA Headquaters in Langley, Virgina. The files in this repository show my processes of using different methods to crack this unsolved cipher using Python.
+[KRYPTOS](https://en.wikipedia.org/wiki/Kryptos) is a currently unsolved cipher located in the CIA Headquaters in Langley, Virgina. The files in this repository show my processes of using different methods to crack this unsolved cipher using the programming language Python.
 
 K1.py and K2.py show my process for learning how the Vigenère Cipher works.<br />
 K3.py shows my process of learning how the Transposition Cipher works.
